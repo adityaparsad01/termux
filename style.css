@@ -1,7 +1,8 @@
-body{
-    color: #123454;
-}
 h1{
     background-color: purple;
-
+    text-align: center
+}
+h2{
+    color: red;
+    text-align: center
 }
